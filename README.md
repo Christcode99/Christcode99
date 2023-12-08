@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Christcode99/Christcode99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Bienvenue dans mon petit coin  à moi
+[A propos de moi ] :   (https://mesquite-marmot-f8e.notion.site/KONAT-Christophe-Jean-Baptiste-76d1b420b32f4236b046388716541b2c?pvs=4)https://mesquite-marmot-f8e.notion.site/KONAT-Christophe-Jean-Baptiste-76d1b420b32f4236b046388716541b2c?pvs=4)
